@@ -8,8 +8,8 @@ header {
 }
 
 h1 {
-  font-weight: boldest;
-  text-decoration: underlines;
+  font-weight: bold;
+  text-decoration: underline;
   border: 2px solid darkorange;
   padding: 10px 20px;
 }
