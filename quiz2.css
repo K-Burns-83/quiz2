@@ -3,19 +3,19 @@ html body {
   font-size: 12px;
 }
 
-heade {
+header {
   text-align: center;
 }
 
 h1 {
   font-weight: boldest;
-  text-deckoration: underlines;
-  boarder: 2px solid darkorange;
+  text-decoration: underlines;
+  border: 2px solid darkorange;
   padding: 10px 20px;
 }
 
 .dynamic {
-  disply: none;
+  display: none;
 }
 
 section {
